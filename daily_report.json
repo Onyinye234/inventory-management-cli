@@ -1,0 +1,1 @@
+{"2025-06-13": {"sales": {}, "sales summary": {}}, "2025-06-14": {"sales": {"item1": {"name": "Milk", "quantity sold": 13, "selling price per item": 700.0, "cost price per item ": 400, "profit": 3900.0, "revenue": 9100.0}}, "sales summary": {"total revenue": 9100.0, "total_profit": 3900.0, "total_loss": 0}}}
